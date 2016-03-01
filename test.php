@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Untitled Document</title>
+<title>This is the title - this is more of the title</title>
 </head>
 
 <body>
